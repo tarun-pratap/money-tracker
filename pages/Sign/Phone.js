@@ -54,7 +54,7 @@ function Phone() {
                 {text}
               </button>
 
-              {bool && <Link href={'/components/Home'}><button
+              {bool && <Link href={'/components/Homee'}><button
                 type="submit"
                 className="group relative mt-2 flex w-full justify-center rounded-md border border-transparent bg-indigo-600 py-2 px-4 text-sm font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
               >               
